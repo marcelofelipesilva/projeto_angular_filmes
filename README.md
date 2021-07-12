@@ -1,4 +1,4 @@
-# Projeto Intermediário de Angular - Digital Innovation One
+# Projeto de Angular Catálogo de filmes - 
 
 
 O projeto consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
